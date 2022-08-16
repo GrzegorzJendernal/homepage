@@ -1,5 +1,5 @@
 # Grzegorz Jendernal - homepage
-![My open graph](https://grzegorzjendernal.github.io/homepage/images/share.png)
+![My open graph](https://github.com/GrzegorzJendernal/homepage/blob/main/images/share.png)
 https://grzegorzjendernal.github.io/homepage/
 
 ## Description
